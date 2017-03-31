@@ -1,6 +1,2 @@
 print("new file")
-print(""
-        
-        
-        
-        hehehehhe)
+print("")
